@@ -1,3 +1,1 @@
 # NextJS Introduction
-
-## ...
